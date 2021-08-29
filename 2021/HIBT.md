@@ -1,4 +1,4 @@
-# Content
+# HIBT SIN Content
 D1 KEYNOTE - Security Technology Arms Race - Mark Dowd.pdf	2021-08-26 05:35	5.6M	   
 D1T1 - Practical AI Red Teaming - A Facial Recognition Case Study - Alex Polyakov.pdf	2021-08-26 09:19	32M	   
 D1T1 - Scaling Up Offensive Pipelines - Gil Biton.pdf	2021-08-26 05:52	1.0M	   
@@ -12,3 +12,6 @@ D1T2 - Taking Ghidra to The Next Level - Zhanzhao Ding.pdf	2021-08-26 05:54	1.3M
 
 Please visit
 https://conference.hitb.org/hitbsecconf2021sin/materials/
+
+# HIBT ASM
+https://conference.hitb.org/hitbsecconf2021ams/materials/
